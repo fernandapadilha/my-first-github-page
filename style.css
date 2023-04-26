@@ -1,0 +1,11 @@
+body {
+    background-color: darkblue
+}
+
+h1,
+h2,
+h3,
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+}
